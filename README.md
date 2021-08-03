@@ -22,7 +22,7 @@ This is a todolist project using EJS, express and Node.js
 ### Home Page-
 <img alt="home-image" src="IMAGES/day task.PNG">
 
-### Success Page-
+### Work page-
 <img alt="success-image" src="IMAGES/work list.PNG">
 
 
