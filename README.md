@@ -1,6 +1,7 @@
-# todo-list-v1
+# Todo-list (Version 1)
 A project built to store records of regular tasks. The user can add the tasks and later can scratch the task from list once 
-completed. The project focusses on implementing of EJS. Tech Stack: HTML, CSS, JS, EJS, NODE.JS, EXPRESS
+completed. The project focusses on implementing of EJS.
+Tech Stack: HTML, CSS, JS, EJS, (NODE.JS, EXPRESS)
 (Project to be continued)
 ## Snapshots:
 ### Home Page-
